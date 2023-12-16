@@ -189,7 +189,7 @@ The Game class is a coordinating class that combines components related to the N
       java -jar NQueen.jar
 
 
-[![Introduction to My Project](https://github.com/Mohamed-n-Samir/NQueen-Problem-Solver/blob/main/thumbnail.png)](https://github.com/Mohamed-n-Samir/NQueen-Problem-Solver/blob/main/untitled.mp4)
+[![Introduction to My Project](https://github.com/Mohamed-n-Samir/NQueen-Problem-Solver/blob/main/thumbnail.png)](https://drive.google.com/file/d/1-ox2D1ZA1naKUuGs7MICqAco9GTKa_MK/preview)
 
   
 ##  Contributors 
