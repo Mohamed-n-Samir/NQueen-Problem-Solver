@@ -1,5 +1,5 @@
 
-# N-Queen problem solver
+# N-Queen problem solver ( Demo is the last item on the page )
 
 Solving N-Queens provlem using BackTracking Algorithm with Multiple Threading using Java
 
@@ -175,7 +175,7 @@ The Game class is a coordinating class that combines components related to the N
       public void runProblemThread()
     This method initiates the solving thread (nQueen) to find a solution to the N-Queens problem.
 
-  ***2- runProblemThread():***
+  ***2- disposeWindow():***
 
       public void disposeWindow()
     The dispose method on the gameWindow is used to close the graphical interface when it's no longer needed.
@@ -187,6 +187,11 @@ The Game class is a coordinating class that combines components related to the N
 - ***Second Method:*** if you have jdk installed open cli, change current directory into the dist directory then run:
        
       java -jar NQueen.jar
+
+
+[![Demo to My Project]([screenshots/intro_thumbnail.jpg](https://github.com/Mohamed-n-Samir/NQueen-Problem-Solver/blob/main/thumbnail.png))]([https://github.com/yourusername/yourrepository/blob/main/videos/intro.mp4](https://github.com/Mohamed-n-Samir/NQueen-Problem-Solver/blob/main/untitled.mp4))
+
+  
 ##  Contributors 
 
 - Mohamed Samir Mohamed
