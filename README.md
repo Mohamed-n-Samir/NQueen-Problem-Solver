@@ -190,7 +190,7 @@ The Game class is a coordinating class that combines components related to the N
 
 ## Demo (Click the Image)
 
-[<img src="https://github.com/Mohamed-n-Samir/NQueen-Problem-Solver/blob/main/thumbnail.png" width="600" height="300"/>](https://drive.google.com/file/d/1-ox2D1ZA1naKUuGs7MICqAco9GTKa_MK/preview)
+[<img src="https://github.com/Mohamed-n-Samir/NQueen-Problem-Solver/blob/main/thumbnail.png" width="800"/>](https://drive.google.com/file/d/1-ox2D1ZA1naKUuGs7MICqAco9GTKa_MK/preview)
 
   
 ##  Contributors 
